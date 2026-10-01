@@ -1,0 +1,68 @@
+.purple{
+    color: #a63f6f;
+}
+.dark-blue{
+    color: #025e73 ;
+}
+.blue{
+    color: #6ac4d9;
+}
+.green{
+   color: #03a688; 
+    
+}
+.yellow{
+   color: #f2c744; 
+}
+.card{
+    background-color:#f2c744;
+    border: 5px;
+    border-color: #03a688;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    }
+
+.fun{
+    background-color: #03a688;
+    border: 5px;
+    border-color: #6ac4d9;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    }
+
+ .box{
+    background-color: #a63f6f;
+    border: 5px;
+    border-color: #025e73;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    }
+   
+    nav {
+        background-color:  #6ac4d9;
+        }
+        nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        }
+        nav li {
+        margin-right: 20px;
+        }
+        nav a {
+        color: black;
+        text-decoration: none;
+        padding: 14px 20px;
+        display: block;
+        }
+        
+        nav a:hover {
+        background-color: #025e73;
+        }
+        
+    
+        
